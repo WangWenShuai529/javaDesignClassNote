@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- Cat类是个包 -->
+	<bean id="id1" class="Car.C180Factory">
+	</bean>
+
+    <!-- Cat类是个包 -->
+	<bean id="id2" class="Car.E260Factory">
+	</bean>
+</beans>
